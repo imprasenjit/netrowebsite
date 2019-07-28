@@ -2061,5 +2061,5 @@ button.close {
 	height:300px !important;
 }
 .thumbnail .caption{
-	height:150px !important;
+	height:auto !important;
 }
